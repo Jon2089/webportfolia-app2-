@@ -14,3 +14,10 @@ with col2:
     Right now, I am working at CureMD
     """
     st.info(content)
+
+text = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+My contact info: joni@joker.com  phone number: 0123
+I am also a tutor. I teach maths, physics and engineering.
+"""
+st.write(text)
